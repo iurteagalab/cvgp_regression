@@ -1,6 +1,6 @@
 # Coreset-based Variational GP (CVGP) regression
 
-This is the codebase for our work on [Accurate and Scalable Stochastic Gaussian Process Regression via Learnable Coreset-based Variational Inference]()
+This is the codebase for our work on [Accurate and Scalable Stochastic Gaussian Process Regression via Learnable Coreset-based Variational Inference](https://openreview.net/forum?id=MCfTk4K1Ig), presented at [UAI2025](https://www.auai.org/uai2025/accepted_papers)
 
 It provides a novel stochastic variational inference method for Gaussian process (GP) regression:
   - it defines a GP posterior over a learnable set of coresets, i.e., over pseudo-input/output, weighted pairs.
